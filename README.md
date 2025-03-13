@@ -8,15 +8,7 @@ Step by Step Database creation and connection:
 
 3. Select SQL option from the tab menu, then paste this command
 
-CREATE DATABASE classschedulerdb;
-USE classschedulerdb;
-
-CREATE TABLE NewInstructors (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    `key` VARCHAR(50) UNIQUE NOT NULL,
-    courses VARCHAR(255) NOT NULL
-);
+[SQL_Command.txt](https://github.com/user-attachments/files/19231755/SQL_Command.txt)
 
 ![image-2](https://github.com/user-attachments/assets/12934339-95b9-4728-b6f3-58c97be13bfa)
 
