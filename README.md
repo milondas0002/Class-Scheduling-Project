@@ -13,7 +13,7 @@ Step by Step Database creation and connection:
 ![image-2](https://github.com/user-attachments/assets/12934339-95b9-4728-b6f3-58c97be13bfa)
 
 3. Now select the Go option located down right
-4. 
+
 5. Now look at the left menu, you can see the database name. Click + icon and you can see the table. Click on it and see all the details
 
 ![image-3](https://github.com/user-attachments/assets/baf3278e-8517-4b32-ab54-316ff80d9243)
